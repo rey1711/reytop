@@ -1,4 +1,6 @@
 # reytop
+Deskripsi Program
+
 Perusahan kami menyediakan berbagai macam merk laptop dengan harga yang terjangkau,perusahaan kami juga menyediakan metode pembelian dan penyewaan dimana customer dapat menyewa atau membeli barang dari kami.
 program ini memiliki dua peran utama yaitu admin dan pelanggan.untuk penjelasan sebagai berikut:
 Pelanggan (Customer):
@@ -15,3 +17,13 @@ Admin:
   Admin dapat melihat riwayat pesanan lengkap dari pelanggan.
 
   Program ini memberikan pengalaman pengguna yang ramah dan efisien baik untuk pelanggan maupun admin, dengan antarmuka yang mudah digunakan dan fungsi yang lengkap untuk memenuhi kebutuhan perusahaan Reytop dalam mengelola bisnis pembelian dan penyewaan laptop mereka.
+
+*Struktur Project*
+flowchart +
+ss an program folder dan filenya, jelasin jg tentang MVC fungsi Model View dan Controller 
+
+*Fitur dan Fungsionalitas*
+fitur 
+apa saja fitur yang ada di program
+*Cara Penggunaan*
+bagaimana implementasinya
