@@ -20,7 +20,20 @@ Admin:
 
 *Struktur Project*
 flowchart +
-ss an program folder dan filenya, jelasin jg tentang MVC fungsi Model View dan Controller 
+MVC (Model-View-Controller) adalah  pola desain arsitektur perangkat lunak yang membagi aplikasi menjadi tiga komponen utama: model , view, dan controller. Setiap komponen memiliki tanggung jawabnya sendiri untuk memproses informasi dan mengelola interaksi antara pengguna dan aplikasi. Mari kita jelaskan secara singkat setiap bagian dari MVC.
+MVC 
+Model: Model mewakili struktur data dan logika bisnis suatu aplikasi.
+ Ini adalah bagian yang bertanggung jawab untuk mengelola data aplikasi dan berinteraksi dengan database atau sumber data lainnya.
+ Model tidak berhubungan langsung dengan tampilan atau pengguna;Itu hanya  pemrosesan data.
+View
+View adalah bagian yang menangani tampilan atau penyajian data kepada pengguna.
+ Ini menjelaskan bagaimana informasi disajikan kepada pengguna, seperti halaman web, antarmuka pengguna grafis (GUI), atau tampilan teks sederhana.
+ View tidak memiliki logika bisnis.Tugasnya hanya  menampilkan informasi yang diberikan oleh model.
+Controller
+ Controller bertindak sebagai perantara antara model dan View.
+ Menerima masukan dari pengguna tentang View mengambil atau memperbarui data dan memilih tampilan yang sesuai untuk ditampilkan kepada pengguna.
+ Ini adalah bagian yang mengatur alur logika aplikasi dan menghubungkan model ke view.
+
 
 *Fitur dan Fungsionalitas*
 fitur 
