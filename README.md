@@ -27,6 +27,8 @@ MVC
   Model: Model mewakili struktur data dan logika bisnis suatu aplikasi.
    Ini adalah bagian yang bertanggung jawab untuk mengelola data aplikasi dan berinteraksi dengan database atau sumber data lainnya.
   Model tidak berhubungan langsung dengan tampilan atau pengguna;Itu hanya  pemrosesan data.
+
+  
   ![image](https://github.com/rey1711/reytop/assets/145863352/93de6aeb-eb90-4623-a7ce-81c3b43195fd)
 
 
@@ -35,6 +37,8 @@ MVC
       View adalah bagian yang menangani tampilan atau penyajian data kepada pengguna.
  Ini menjelaskan bagaimana informasi disajikan kepada pengguna, seperti halaman web, antarmuka pengguna grafis (GUI), atau tampilan teks sederhana.
  View tidak memiliki logika bisnis.Tugasnya hanya  menampilkan informasi yang diberikan oleh model.
+
+ 
 ![image](https://github.com/rey1711/reytop/assets/145863352/6382f509-4b03-4262-8812-9de3710ec363)
 
 
@@ -42,6 +46,8 @@ MVC
       Controller bertindak sebagai perantara antara model dan View.
  Menerima masukan dari pengguna tentang View mengambil atau memperbarui data dan memilih tampilan yang sesuai untuk ditampilkan kepada pengguna.
  Ini adalah bagian yang mengatur alur logika aplikasi dan menghubungkan model ke view.
+
+ 
  ![image](https://github.com/rey1711/reytop/assets/145863352/5369c30a-4a82-45a0-a1bd-4690d693d59c)
 
 
